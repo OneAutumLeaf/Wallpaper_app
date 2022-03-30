@@ -1,7 +1,7 @@
 # Wallpaper_App
 ## _The Wallapper App_
 
-<img src="images/icon.png" width="100px" height="100px"/>
+<img src="images/icon.png">
 
 Wallpaper is a flutter app that uses Pexels API . It fetches millions of images periodically through internet and allows user to set wallpapers directly from the application without any hassels.All the available images are in high quality. Hence no Compromisation in quality content.
 
