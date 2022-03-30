@@ -26,9 +26,11 @@ Here are the key features in detail:
 - flutter_cache_manager
 - Url_launcher: ^6.0.20
 
-### Screenshots 📱
+## Screenshots 📱
 ![](images/ss1.png)
+
 ![](images/ss2.png)
+
 ## Build and run
 * Assuming this is your first project, install [flutter](https://flutter.dev/docs/get-started/install)
 * Clone this project using the url or ssh and cd into the cloned directory
